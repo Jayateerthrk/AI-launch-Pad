@@ -1,12 +1,3 @@
-pip install "langchain" "pypdf<=3.17.0" "faiss-cpu<=1.7.4" "openai>1" "tiktoken<=0.5.1"
-pip install streamlit
-pip install langchain-community
-
-pip install langchain-openai
-
-pip install httpx==0.27.2
-
-
 import streamlit as st
 import os
 import openai

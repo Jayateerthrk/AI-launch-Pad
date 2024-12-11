@@ -4,4 +4,3 @@ streamlit
 pandas
 faiss-cpu==1.7.4
 openai>=1.0.0
-tiktoken

@@ -1,7 +1,2 @@
 langchain
 PyPDF2<=3.0.0
-faiss-cpu==1.7.4
-openai>=1.0.0
-tiktoken
-streamlit
-pandas
